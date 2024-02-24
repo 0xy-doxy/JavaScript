@@ -24,3 +24,7 @@ let obj = {
 const myFunction = function (){
     console.log("hello!");
 }
+
+// +++++++++++++++++++++++++++++++++++++++++++
+
+// primitive => stack memory    Non-primitive => heap memory
